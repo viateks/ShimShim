@@ -22,3 +22,5 @@ Future Considerations:
 - Widgets that show the BPM in a non-intrusive way, alongeside the Image and/or Text markers
 - Single click communication - a set of buttons displayed in the app (around the main display) that can be quickly used to share messages with the rest of the Group in run-time, such as - "Pull Back", "Build Up", "Speed Up", "Slow Down", "Look at me", "Last Bar", etc.
 
+Sample Wireframe:
+![Sample Wireframe - Sample Run-Time Screen - Singer Guitarist](https://github.com/viateks/ShimShim/blob/master/Sample%20Run-Time%20Screen%20-%20Singer%20Guitarist.png)
